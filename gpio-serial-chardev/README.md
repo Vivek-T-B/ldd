@@ -550,15 +550,7 @@ git push origin feature/new-feature
 
 This project is licensed under the **GNU General Public License v2.0** - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Support
 
-For questions, issues, or discussions:
-
-1. **GitHub Issues**: [Create an issue](https://github.com/Vivek-T-B/ldd/tree/main/gpio-serial-chardev/issues)
-2. **Documentation**: Check the [docs/](docs/) directory
-
----
-
-**Built with ❤️
+Built with ❤️ by Vivek 
 
 *This driver serves as both a practical implementation and an educational resource for understanding advanced Linux kernel character device driver development.*
