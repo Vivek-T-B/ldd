@@ -769,6 +769,6 @@ module_init(gpio_serial_init);
 module_exit(gpio_serial_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Advanced Character Device Driver Project");
+MODULE_AUTHOR("Vivek");
 MODULE_DESCRIPTION("GPIO Serial Communication Character Device Driver");
 MODULE_VERSION("1.0");
