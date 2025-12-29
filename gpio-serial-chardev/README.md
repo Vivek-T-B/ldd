@@ -550,22 +550,15 @@ git push origin feature/new-feature
 
 This project is licensed under the **GNU General Public License v2.0** - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- **Linux Kernel Community** - For comprehensive documentation and examples
-- **Kernel Newbies** - For excellent driver development tutorials
-- **Embedded Systems Community** - For GPIO and hardware interfacing insights
-
 ## 📞 Support
 
 For questions, issues, or discussions:
 
-1. **GitHub Issues**: [Create an issue](https://github.com/your-repo/gpio-serial-chardev/issues)
+1. **GitHub Issues**: [Create an issue](https://github.com/Vivek-T-B/ldd/tree/main/gpio-serial-chardev/issues)
 2. **Documentation**: Check the [docs/](docs/) directory
-3. **Kernel Mailing Lists**: For kernel development discussions
 
 ---
 
-**Built with ❤️ for the Linux Kernel Development Community**
+**Built with ❤️
 
 *This driver serves as both a practical implementation and an educational resource for understanding advanced Linux kernel character device driver development.*
